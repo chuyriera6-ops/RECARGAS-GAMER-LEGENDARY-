@@ -1,0 +1,6 @@
+{
+  "name": "Recarga Gamer Legendary",
+  "description": "Recarga Gamer Legendary (RGL) - Recargas de diamantes Free Fire al instante vía UID, ganar monedas con anuncios, generador de sensibilidad 200 y nombres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
